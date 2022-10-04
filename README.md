@@ -3,7 +3,7 @@
 
 ![flexblog](https://user-images.githubusercontent.com/94017930/178728541-02648b20-a9d9-4a0e-b47e-18dfe93a3cc0.PNG)
 
-<p align="center"> Clique <a href="https://flexblog-liart-eight.vercel.app/">aqui</a> para ver o projeto.</p>
+<p align="center"> Clique <a href="https://flexblog-db.vercel.app/">aqui</a> para ver o projeto.</p>
 
 
 ## :rocket: Tecnologias
